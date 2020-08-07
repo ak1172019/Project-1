@@ -1,0 +1,10 @@
+
+
+Customer Login:example123@email.com
+Password:123
+
+
+localhost/shopmax/admin
+
+Admin Login:admin@shopmax.com
+Admin Password:123456
